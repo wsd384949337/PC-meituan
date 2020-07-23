@@ -1,7 +1,15 @@
 <template>
-  <div>
-    <nuxt />
-  </div>
+  <el-container class="layout-default">
+    <el-header height="197px">
+      myHeader
+    </el-header>
+    <el-main>
+      <nuxt/>
+    </el-main>
+    <el-footer height="100%">
+      myFooter
+    </el-footer>
+  </el-container>
 </template>
 
 <style>
