@@ -23,7 +23,7 @@
     "@babel/core": "^7.9.0",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.9",
     "sass-loader": "^8.0.2",
     "scss-loader": "0.0.1"
